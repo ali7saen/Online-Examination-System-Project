@@ -1,0 +1,53 @@
+marquee {
+    display: none;
+}
+
+.ui-theme-settings {
+    display: none;
+}
+
+.app-header {
+    background-color: #292929 !important;
+    color: #fff;
+}
+
+.app-header__logo {
+    background: none !important;
+}
+
+
+.app-footer {
+    background-color: #2e2e2e;
+
+}
+
+.app-main {
+    background-color: #2e2e2e;
+}
+
+.app-main__outer {
+    background-color: #2e2e2e;
+
+}
+
+.app-theme-white .app-page-title {
+    background: rgb(53 53 53) !important;
+    color: #ffff;
+}
+
+.app-theme-white .app-sidebar {
+    background: #292929;
+}
+
+.vertical-nav-menu li a {
+    color: #ffffff;
+}
+
+.vertical-nav-menu li a:hover {
+    background: #353535;
+    text-decoration: none;
+}
+
+.app-sidebar__heading {
+    color: #90a8e5;
+}
